@@ -1,4 +1,4 @@
-var kilometriPercorsi = parseInt(prompt("Quanti kiometri vuoi percorrere?"));
+var kilometriPercorsi = parseInt(prompt("Quanti kilometri vuoi percorrere?"));
 
 var età = parseInt(prompt ("Quanti anni hai?"));
 var tariffaBiglietto = (kilometriPercorsi * 0.21);
