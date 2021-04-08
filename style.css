@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    background-image: url(img/16660.png);
+    max-width: 1080px;
+    margin: auto;
+    background-color: rgb(189, 222, 243);
+    padding: 40px 0;
+}
+#title{
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(18, 83, 105);
+}
+
+.img-container{
+    width: 60%;
+    margin: 60px auto 20px;
+    background-color: rgb(166, 235, 225);
+    border-radius: 20px;
+}
+
+.img-container img{
+    width: 100%;
+    height: 500px;
+    object-fit: contain;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(166, 235, 225);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+
+
+h1{
+    font-family: 'Allan', cursive;
+    color: rgb(18, 83, 105);
+}
+}
