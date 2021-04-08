@@ -7,20 +7,23 @@
     background-image: url(img/16660.png);
     max-width: 1080px;
     margin: auto;
-    background-color: rgb(189, 222, 243);
+    background-color: #0796C0;
     padding: 40px 0;
+    margin-top: 20px;
+    border-radius: 20px;
 }
 #title{
     font-family: 'Bangers', cursive;
     text-align: center;
     font-size: 50px;
-    color: rgb(18, 83, 105);
+    color: #FDB814;
+    text-shadow: -1px 0 #F04D23, 0 4px #F04D23, 4px 0 #F04D23, 0 -1px #F04D23;
 }
 
 .img-container{
     width: 60%;
     margin: 60px auto 20px;
-    background-color: rgb(166, 235, 225);
+    background-color: #63acc2;
     border-radius: 20px;
 }
 
@@ -33,7 +36,7 @@
 .container{
     width: 80%;
     margin: auto;
-    background-color: rgb(166, 235, 225);
+    background-color:  #63acc2;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -43,6 +46,5 @@
 
 h1{
     font-family: 'Allan', cursive;
-    color: rgb(18, 83, 105);
-}
+    color: #11294C;
 }
